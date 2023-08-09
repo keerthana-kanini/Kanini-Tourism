@@ -1,0 +1,78 @@
+/* CustomCard.css
+.custom-card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 70%;
+    margin: 10px auto; 
+  }
+  
+  .custom-card:hover {
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+  }
+  
+  .custom-card-image {
+    width: 100%;
+  }
+  
+  .custom-card-body {
+    padding: 2px 16px;
+  }
+  
+  .custom-card-title {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .text-muted {
+    color: #888;
+  }
+  .feature .card-container .card {
+    height: 45rem;
+    width: 30rem;
+    margin: 2rem 1rem;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .feature .card-container .card img {
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  }
+  
+  .feature .card-container .card .info {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    bottom: -100%; 
+    left: 0;
+    background: linear-gradient(transparent, #000);
+    padding: 0 2rem;
+    padding-top: 85%;
+    transition: bottom 0.3s; 
+  }
+  
+  .feature .card-container .card:hover .info {
+    bottom: 0%; 
+  }
+  
+  .feature .card-container .card .info h3 {
+    font-size: 3rem;
+    color: #fff;
+  }
+  
+  .feature .card-container .card .info .stars i {
+    font-size: 1.5rem;
+    color: var(--red);
+    padding: 1rem 0;
+  }
+  
+  .feature .card-container .card .info p {
+    font-size: 1.5rem;
+    color: #eee;
+  }
+  
+  .feature .card-container .card .info .btn {
+    box-shadow: none;
+  }
+   */
